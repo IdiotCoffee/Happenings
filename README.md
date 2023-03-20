@@ -1,4 +1,4 @@
-# Happenings
+# Happenings 
 My first Hackathon Project (with a group of 4 people)
 Members:
 Renee David:https://github.com/ReneeJascintha
