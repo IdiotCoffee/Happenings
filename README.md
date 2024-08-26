@@ -1,6 +1,6 @@
 # Happenings
 
-Happenings is a website that helps students find and register for new college events. This project was created as part of a hackathon, where we developed it in a team of five using basic HTML, CSS, and JavaScript.
+Happenings is a website that helps students find and register for new college events. This project was created as part of a hackathon, where we developed it in a team of four using basic HTML, CSS, and JavaScript.
 
 ## Features
 
